@@ -6,7 +6,7 @@ def vehical_details(vid,vname,price,yop):
         f"yop={yop}"
     )
     return result
-if __name__="__main__":
+if __name__=="__main__":
     vid=101
     vname="car"
     price=50000
